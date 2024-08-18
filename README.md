@@ -5,7 +5,7 @@
 
 - 🔭 I'm finishing my studies in Systems Technology [Sena](https://zajuna.sena.edu.co/)
 
-- 🌱 I'm learning architectures **Spring Boot, Angular**
+- 🌱 I'm learning architectures **Spring Boot.
 
 - 📫 How to reach me **brecasta712@hotmail.com**
 
